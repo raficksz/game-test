@@ -1,0 +1,1 @@
+global.lemons_eated = 0;
